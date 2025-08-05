@@ -1,6 +1,6 @@
 # 🌍 i18nify.online
 
-![i18nify Banner](https://i18nify.online/assets/banner.png)
+![i18nify Banner](https://i18nify.online/demo.png)
 
 > **Automated internationalization for React & Next.js projects — directly in your browser.**
 
