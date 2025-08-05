@@ -49,7 +49,7 @@ We welcome feedback, feature suggestions and pull requests!
 
 - Twitter: [@i18nify](https://twitter.com/i18nify)
 - Discord: [i18nify](https://discord.gg/aj9u8hVp)
-- GitHub Discussions: [Join the conversation](https://github.com/your-org/i18nify.online/discussions)
+- GitHub Discussions: [Join the conversation](https://github.com/i18nify/i18nify.online/discussions)
 - Need help? Email us at [support@i18nify.online](mailto:support@i18nify.online)
 
 ---
